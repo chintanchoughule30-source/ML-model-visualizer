@@ -29,11 +29,14 @@
 
 <div align="center">
 
-### 🎯 Live App Preview
+### 🖥️ App Screenshots
 
-**[➡️ Click here to launch the live application](https://ml-model-visualizer-fzci.onrender.com)**
+| Home Page | Train Model |
+|:---------:|:-----------:|
+| ![Home Page](./assets/readme/screenshot_home.jpg) | ![Train Model](./assets/readme/screenshot_model.jpg) |
+| *Interactive landing page with live dataset preview* | *Random Forest trained on Moons — 0.96 accuracy with decision boundary* |
 
-> *Pick a dataset · Select a classifier · Tune hyperparameters · Watch the decision boundary update in real time — all in your browser, no setup required.*
+**[➡️ Launch the live application](https://ml-model-visualizer-fzci.onrender.com)**
 
 </div>
 
