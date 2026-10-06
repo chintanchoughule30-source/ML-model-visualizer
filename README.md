@@ -8,6 +8,7 @@
 
 <br>
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ml--model--visualizer.onrender.com-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://ml-model-visualizer-fzci.onrender.com)
 
 <br>
 
