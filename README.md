@@ -28,9 +28,11 @@
 
 <div align="center">
 
-![Tutorial Demo](./assets/readme/tutorial.gif)
+### 🎯 Live App Preview
 
-*Selecting a dataset, switching between classifiers, and tuning hyperparameters in real time — the decision boundary updates dynamically with every change.*
+**[➡️ Click here to launch the live application](https://ml-model-visualizer-fzci.onrender.com)**
+
+> *Pick a dataset · Select a classifier · Tune hyperparameters · Watch the decision boundary update in real time — all in your browser, no setup required.*
 
 </div>
 
