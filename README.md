@@ -180,10 +180,12 @@ ml-model-visualizer/
 │   └── insights.py             # Feature importance & model advice
 │   └── plot_utils.py           # Dataset visualizers
 ├── .gitignore                  # Git ignore specification
+├── .python-version             # Python version pin for cloud deployment
 ├── app.py                      # Application entry point & global styling
 ├── CONTRIBUTING.md             # Contribution guidelines
 ├── LICENSE                     # MIT License (Chintan Choughule)
 ├── README.md                   # Project documentation
+├── render.yaml                 # Render cloud deployment blueprint
 └── requirements.txt            # Python dependencies
 ```
 

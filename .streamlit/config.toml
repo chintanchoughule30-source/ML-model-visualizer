@@ -5,13 +5,12 @@ primaryColor = "#4ade80"
 [server]
 # headless = true prevents the browser from auto-opening every time you run the app. maxUploadSize = 10 caps CSV uploads at 10 MB
 headless = true
-port = 8501
-enableXsrfProtection = true
+enableXsrfProtection = false
+enableCORS = false
 maxUploadSize = 10
 
 [browser]
 gatherUsageStats = false
-serverAddress = "localhost"
 
 [runner]
 # fastReruns = true makes widget interactions feel snappier
