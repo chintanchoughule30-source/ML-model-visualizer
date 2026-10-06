@@ -8,12 +8,20 @@
 
 <br>
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://ml-model-visualizer-fzci.onrender.com)
+
+<br>
+
 [![Author](https://img.shields.io/badge/Author-Chintan%20Choughule-blue.svg?style=flat-square)](https://github.com/chintanchoughule30-source)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-latest-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](./CONTRIBUTING.md)
+
+<br>
+
+🌐 **Live Application:** [https://ml-model-visualizer-fzci.onrender.com](https://ml-model-visualizer-fzci.onrender.com)
 
 </div>
 
@@ -95,7 +103,9 @@ Here is a glimpse of how different classifiers partition identical feature space
 
 ## 🚀 Getting Started
 
-Follow these steps to set up and run the project locally on your machine.
+> 💡 **Try it instantly without local setup:** Access the live deployment at **[ml-model-visualizer-fzci.onrender.com](https://ml-model-visualizer-fzci.onrender.com)**.
+
+To set up and run the project locally on your machine, follow the steps below:
 
 ### Prerequisites
 
