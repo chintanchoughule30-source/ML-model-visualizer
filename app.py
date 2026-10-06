@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Machine Learning Playground",
+    page_title="ML Model Visualizer",
     page_icon="assets/flask.png",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -242,7 +242,7 @@ hr {
 """, unsafe_allow_html=True)
 
 pages = st.navigation({
-    "ML Playground": [
+    "ML Model Visualizer": [
         st.Page("pages/home.py", title="Home"),
         st.Page("pages/dataset.py", title="Dataset"),
         st.Page("pages/model.py", title="Train Model")

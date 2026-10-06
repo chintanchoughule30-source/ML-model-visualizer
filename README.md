@@ -1,6 +1,6 @@
 <div align="center">
 
-# Machine Learning Playground
+# ML Model Visualizer
 
 ### *Experiment. Visualize. Understand.*
 
@@ -31,7 +31,7 @@
 
 ## 📌 Overview
 
-**Machine Learning Playground** is an interactive educational web application built with Streamlit and scikit-learn. It empowers students, educators, and machine learning practitioners to experiment with over 10 classification algorithms without writing a single line of boilerplate code.
+**ML Model Visualizer** is an interactive educational web application built with Streamlit and scikit-learn. It empowers students, educators, and machine learning practitioners to experiment with over 10 classification algorithms without writing a single line of boilerplate code.
 
 Load standard synthetic or real benchmark datasets, select any classifier, tweak hyperparameters through intuitive visual controls, and observe how **decision boundaries**, **evaluation metrics**, and **model diagnostics** transform instantaneously.
 
@@ -109,8 +109,8 @@ git --version
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/chintanchoughule/ml-playground.git
-   cd ml-playground
+   git clone https://github.com/chintanchoughule/ml-model-visualizer.git
+   cd ml-model-visualizer
    ```
 
 2. **Create and activate a virtual environment** *(recommended)*
@@ -156,7 +156,7 @@ The application will launch in your default web browser at `http://localhost:850
 ## 📁 Project Architecture
 
 ```
-ml-playground/
+ml-model-visualizer/
 ├── .devcontainer/              # Devcontainer configuration for cloud environments
 ├── .streamlit/
 │   └── config.toml             # Custom Streamlit UI & theme setup
@@ -177,7 +177,7 @@ ml-playground/
 ├── utils/                      # Core plotting, export, and insight utilities
 │   ├── boundary_plot.py        # 2D contour & decision boundary rendering
 │   ├── code_export.py          # Dynamic Python script generator
-│   ├── insights.py             # Feature importance & model advice
+│   └── insights.py             # Feature importance & model advice
 │   └── plot_utils.py           # Dataset visualizers
 ├── .gitignore                  # Git ignore specification
 ├── app.py                      # Application entry point & global styling
@@ -192,7 +192,7 @@ ml-playground/
 ## 🤝 Contributing
 
 Contributions, bug reports, and feature requests are welcome!
-Feel free to check out the [issues page](https://github.com/chintanchoughule/ml-playground/issues) or read [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
+Feel free to check out the [issues page](https://github.com/chintanchoughule/ml-model-visualizer/issues) or read [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
 
 ---
 

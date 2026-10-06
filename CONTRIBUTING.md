@@ -1,4 +1,4 @@
-# Contributing to Machine Learning Playground
+# Contributing to ML Model Visualizer
 
 First off, thank you for taking the time to contribute! 🎉
 
@@ -15,18 +15,18 @@ Please be respectful, collaborative, and considerate of others when interacting 
 ## How Can I Contribute?
 
 ### 1. Reporting Bugs
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/chintanchoughule/ml-playground/issues).
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/chintanchoughule/ml-model-visualizer/issues).
 - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
 ### 2. Suggesting Enhancements
-- Open an issue with a clear title and description explaining the feature and why it would be beneficial to the playground.
+- Open an issue with a clear title and description explaining the feature and why it would be beneficial to the visualizer.
 - Provide examples of use cases or mockups if applicable.
 
 ### 3. Submitting Pull Requests
 1. **Fork** the repository and clone it locally:
    ```bash
-   git clone https://github.com/<your-username>/ml-playground.git
-   cd ml-playground
+   git clone https://github.com/<your-username>/ml-model-visualizer.git
+   cd ml-model-visualizer
    ```
 2. **Create a new branch** for your feature or bug fix:
    ```bash

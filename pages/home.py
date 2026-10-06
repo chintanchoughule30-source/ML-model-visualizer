@@ -285,7 +285,7 @@ with st.sidebar:
           <polygon points="10,6 13.5,8 13.5,12 10,14 6.5,12 6.5,8"
                    fill="#4ade80" opacity="0.25"/>
         </svg>
-        <span class="sb-brand">ML Playground</span>
+        <span class="sb-brand">ML Model Visualizer</span>
       </div>
     </div>
     """, unsafe_allow_html=True)

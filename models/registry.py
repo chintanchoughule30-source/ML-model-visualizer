@@ -1,5 +1,5 @@
 """
-Model registry — single source of truth for every model in the playground.
+Model registry — single source of truth for every model in the ML Model Visualizer.
  
 Each entry defines:
   - label:       Display name in the UI
