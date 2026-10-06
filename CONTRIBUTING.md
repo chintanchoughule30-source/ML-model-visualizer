@@ -15,7 +15,7 @@ Please be respectful, collaborative, and considerate of others when interacting 
 ## How Can I Contribute?
 
 ### 1. Reporting Bugs
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/chintanchoughule/ml-model-visualizer/issues).
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/chintanchoughule30-source/ML-model-visualizer/issues).
 - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
 ### 2. Suggesting Enhancements
@@ -25,8 +25,8 @@ Please be respectful, collaborative, and considerate of others when interacting 
 ### 3. Submitting Pull Requests
 1. **Fork** the repository and clone it locally:
    ```bash
-   git clone https://github.com/<your-username>/ml-model-visualizer.git
-   cd ml-model-visualizer
+   git clone https://github.com/<your-username>/ML-model-visualizer.git
+   cd ML-model-visualizer
    ```
 2. **Create a new branch** for your feature or bug fix:
    ```bash

@@ -8,7 +8,7 @@
 
 <br>
 
-[![Author](https://img.shields.io/badge/Author-Chintan%20Choughule-blue.svg?style=flat-square)](https://github.com/chintanchoughule)
+[![Author](https://img.shields.io/badge/Author-Chintan%20Choughule-blue.svg?style=flat-square)](https://github.com/chintanchoughule30-source)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-latest-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -109,8 +109,8 @@ git --version
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/chintanchoughule/ml-model-visualizer.git
-   cd ml-model-visualizer
+   git clone https://github.com/chintanchoughule30-source/ML-model-visualizer.git
+   cd ML-model-visualizer
    ```
 
 2. **Create and activate a virtual environment** *(recommended)*
@@ -192,7 +192,7 @@ ml-model-visualizer/
 ## 🤝 Contributing
 
 Contributions, bug reports, and feature requests are welcome!
-Feel free to check out the [issues page](https://github.com/chintanchoughule/ml-model-visualizer/issues) or read [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
+Feel free to check out the [issues page](https://github.com/chintanchoughule30-source/ML-model-visualizer/issues) or read [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
 
 ---
 
@@ -200,7 +200,7 @@ Feel free to check out the [issues page](https://github.com/chintanchoughule/ml-
 
 **Chintan Choughule**
 
-- **GitHub**: [@chintanchoughule](https://github.com/chintanchoughule)
+- **GitHub**: [@chintanchoughule30-source](https://github.com/chintanchoughule30-source)
 - **Email**: [chintanchoughule30@gmail.com](mailto:chintanchoughule30@gmail.com)
 
 If you found this project helpful or educational, consider giving it a ⭐️ on GitHub!
